@@ -1,0 +1,20 @@
+{
+  "name": "emi-theme-darker",
+  "displayName": "Emi Theme Darker",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Emi Theme Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Emi Theme Darker-color-theme.json"
+      }
+    ]
+  }
+}
