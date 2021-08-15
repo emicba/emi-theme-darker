@@ -1,6 +1,11 @@
 {
   "name": "emi-theme-darker",
   "displayName": "Emi Theme Darker",
+  "publisher": "Emi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emicba/emi-theme-darker"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
