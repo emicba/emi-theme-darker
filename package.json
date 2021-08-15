@@ -22,5 +22,6 @@
         "path": "./themes/Emi Theme Darker-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
